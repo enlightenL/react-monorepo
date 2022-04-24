@@ -16,5 +16,6 @@
   },
   "publishConfig": {
     "@enlightenl:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "e97da7e5061eff7859d0f14d1d11f116d146ef45"
 }
