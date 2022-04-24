@@ -1,5 +1,5 @@
 {
-  "name": "@foo/shared",
+  "name": "@enlightenL/shared",
   "version": "0.0.4",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -14,5 +14,5 @@
     "build": "tsc",
     "start": "tsc -w"
   },
-  "gitHead": "c8c20f26040c9dd9e87d11e3e22da05cfd297b16"
+  "gitHead": "eacffdc595e07e2f0eabae427756900799cade13"
 }
