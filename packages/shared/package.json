@@ -13,5 +13,6 @@
   "scripts": {
     "build": "tsc",
     "start": "tsc -w"
-  }
+  },
+  "gitHead": "201e049b45628b6859c761861975d412ba1df4ce"
 }

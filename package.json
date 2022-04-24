@@ -9,5 +9,12 @@
   ],
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enlightenL/react-monorepo"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
