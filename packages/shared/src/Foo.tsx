@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Foo: React.FC = () => <div>What the fuck   Man</div>;
+const Foo: React.FC = () => <div>What the f</div>;
 
 export default Foo;

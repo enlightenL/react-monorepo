@@ -1,0 +1,19 @@
+15 error Error: Command failed with exit code 1: git remote update
+15 error remote: Invalid username or password.
+15 error fatal: Authentication failed for 'https://github.com/enlightenL/react-monorepo/'
+15 error error: Could not fetch origin
+15 error Auto packing the repository in background for optimum performance.
+15 error See "git help gc" for manual housekeeping.
+15 error warning: The last gc run reported the following. Please correct the root cause
+15 error and remove .git/gc.log.
+15 error Automatic cleanup will not be performed until the file is removed.
+15 error
+15 error warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+15 error
+15 error Fetching origin
+15 error     at makeError (/Users/owl8247/Desktop/react-monorepo/node_modules/execa/lib/error.js:60:11)
+15 error     at Function.module.exports.sync (/Users/owl8247/Desktop/react-monorepo/node_modules/execa/index.js:194:17)
+15 error     at Object.execSync (/Users/owl8247/Desktop/react-monorepo/node_modules/@lerna/child-process/index.js:39:16)
+15 error     at updateRemote (/Users/owl8247/Desktop/react-monorepo/node_modules/@lerna/version/lib/is-behind-upstream.js:34:16)
+15 error     at isBehindUpstream (/Users/owl8247/Desktop/react-monorepo/node_modules/@lerna/version/lib/is-behind-upstream.js:16:3)
+15 error     at VersionCommand.initialize (/Users/owl8247/Desktop/react-monorepo/node_modules/@lerna/version/index.js:153:9)
