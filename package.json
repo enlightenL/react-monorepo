@@ -15,6 +15,6 @@
     "url": "https://github.com/enlightenL/react-monorepo"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@enlightenL:registry": "https://npm.pkg.github.com"
   }
 }

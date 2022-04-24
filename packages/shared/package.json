@@ -14,5 +14,7 @@
     "build": "tsc",
     "start": "tsc -w"
   },
-  "gitHead": "eacffdc595e07e2f0eabae427756900799cade13"
+  "publishConfig": {
+    "@enlightenL:registry": "https://npm.pkg.github.com"
+  }
 }
