@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Foo from '@enlightenL/shared';
+import Foo from '@enlightenl/shared';
 
 function App() {
   return (

@@ -10,7 +10,7 @@
       "ignoreChanges": [
         "*.md"
       ],
-      "registry": "https://npm.pkg.github.com"
+      "@enlightenl:registry": "https://npm.pkg.github.com"
     }
   }
 }

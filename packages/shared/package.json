@@ -1,5 +1,5 @@
 {
-  "name": "@enlightenL/shared",
+  "name": "@enlightenl/shared",
   "version": "0.0.6",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -15,6 +15,6 @@
     "start": "tsc -w"
   },
   "publishConfig": {
-    "@enlightenL:registry": "https://npm.pkg.github.com"
+    "@enlightenl:registry": "https://npm.pkg.github.com"
   }
 }
