@@ -1,9 +1,9 @@
 {
   "name": "@foo/app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "dependencies": {
-    "@foo/shared": "^0.0.3",
+    "@foo/shared": "^0.0.4",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
