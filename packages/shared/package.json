@@ -15,7 +15,10 @@
     "start": "tsc -w"
   },
   "publishConfig": {
-    "@enlightenl:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "e97da7e5061eff7859d0f14d1d11f116d146ef45"
+  "gitHead": "b1e7f8ea2b78a534de2e0635d0ad3607caaf9ba6",
+  "dependencies": {
+    "antd": "^4.20.0"
+  }
 }

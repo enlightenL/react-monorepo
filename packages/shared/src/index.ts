@@ -1,2 +1,4 @@
 import Foo from './Foo';
-export default Foo;
+import CustomModal from './Modal';
+
+export { Foo, CustomModal };

@@ -1,7 +1,10 @@
 {
   "name": "@enlightenl/app",
   "version": "0.0.9",
-  "private": true,
+  "description": "app",
+  "author": "L",
+  "license": "ENlighten",
+  "keyword": "app",
   "dependencies": {
     "@enlightenl/shared": "^0.0.9",
     "@testing-library/jest-dom": "^5.16.4",

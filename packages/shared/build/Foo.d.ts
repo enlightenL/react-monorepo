@@ -1,4 +1,3 @@
-import React from 'react';
-declare const Foo: React.FC;
-export default Foo;
+/// <reference types="react" />
+export default function Foo(): JSX.Element;
 //# sourceMappingURL=Foo.d.ts.map

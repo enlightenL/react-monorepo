@@ -1,5 +1,12 @@
+import { Row, Col } from 'antd';
+import { GithubOutlined } from '@ant-design/icons';
 import React from 'react';
 
-const Foo: React.FC = () => <div>FooFooFoo</div>;
-
-export default Foo;
+export default function Foo() {
+    return (
+        <Row>
+            <Col span={12}>Foo</Col>
+            <Col span={2}><GithubOutlined /></Col>
+        </Row>
+    );
+};
