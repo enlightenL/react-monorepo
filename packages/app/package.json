@@ -1,12 +1,12 @@
 {
   "name": "@enlightenl/app",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "app",
   "author": "L",
   "license": "ENlighten",
   "keyword": "app",
   "dependencies": {
-    "@enlightenl/shared": "^0.0.9",
+    "@enlightenl/shared": "^0.0.10",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
